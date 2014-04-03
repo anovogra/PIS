@@ -1,4 +1,5 @@
 PIS
 ===
+Vjezba iz PIS-a
 
-vježba iz PIS-a
+Vjezba 3 - Distribuirani sustavi verzioniranja
